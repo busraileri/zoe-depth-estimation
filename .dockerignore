@@ -1,0 +1,10 @@
+venv/
+output/
+app_images/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.git
+*.ipynb
